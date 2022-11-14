@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+
+form {
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    
+}
+
+input[type=text] {
+    float: left;
+    margin: 3px;
+    border-radius: 10px;
+    width: 50%;
+    outline: none;
+    background: transparent;
+    padding: 10px 2px 20px;
+    box-sizing: border-box;
+}
